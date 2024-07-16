@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d51cfec9-8600-428e-9b3f-80b634872a22" name="Changes" comment="">
+    <list default="true" id="d51cfec9-8600-428e-9b3f-80b634872a22" name="Changes" comment="Adição da public static BANCO e alteração da classe ContaCorrente para abstract">
+      <change afterPath="$PROJECT_DIR$/src/br/com/fiap/entity/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/fiap/entity/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/fiap/entity/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/fiap/entity/ContaCorrenteEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/fiap/entity/ContaCorrenteEspecial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2j3awQDmI2ZHPdRK4Zb19D0gOQs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,7 +41,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/dcarv/IdeaProjects/EstudoPolimorfismo/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/dcarv/IdeaProjects/EstudoPolimorfismo/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,11 +62,20 @@
       <option name="project" value="LOCAL" />
       <updated>1720621620065</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adição da public static BANCO e alteração da classe ContaCorrente para abstract">
+      <option name="closed" value="true" />
+      <created>1721062097722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721062097722</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Estudo de polimorfismo do curso da FIAP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estudo de polimorfismo do curso da FIAP" />
+    <MESSAGE value="Adição da public static BANCO e alteração da classe ContaCorrente para abstract" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adição da public static BANCO e alteração da classe ContaCorrente para abstract" />
   </component>
 </project>

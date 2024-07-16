@@ -12,4 +12,9 @@ public class ContaCorrenteEspecial extends ContaCorrente {
         }
         saldo = saldo - valor;
     }
+
+    @Override
+    public double verificarSaldo() {
+        return saldo;
+    }
 }
