@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d51cfec9-8600-428e-9b3f-80b634872a22" name="Changes" comment="Modificação na ContaCorrente, ContaCorrenteEspecial, criação da ContaPoupanca e criação da classe abstrata Conta">
+    <list default="true" id="d51cfec9-8600-428e-9b3f-80b634872a22" name="Changes" comment="Adição do modificador final a classe ContaPoupanca">
+      <change afterPath="$PROJECT_DIR$/src/br/com/fiap/entity/Transferivel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/fiap/entity/ContaCorrenteEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/fiap/entity/ContaCorrenteEspecial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -31,17 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/dcarv/IdeaProjects/EstudoPolimorfismo/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dcarv/IdeaProjects/Circulo&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dcarv/IdeaProjects/EstudoPolimorfismo/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,13 +79,22 @@
       <option name="project" value="LOCAL" />
       <updated>1721141553995</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adição do modificador final a classe ContaPoupanca">
+      <option name="closed" value="true" />
+      <created>1721142425385</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721142425385</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Estudo de polimorfismo do curso da FIAP" />
     <MESSAGE value="Adição da public static BANCO e alteração da classe ContaCorrente para abstract" />
     <MESSAGE value="Modificação na ContaCorrente, ContaCorrenteEspecial, criação da ContaPoupanca e criação da classe abstrata Conta" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modificação na ContaCorrente, ContaCorrenteEspecial, criação da ContaPoupanca e criação da classe abstrata Conta" />
+    <MESSAGE value="Adição do modificador final a classe ContaPoupanca" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adição do modificador final a classe ContaPoupanca" />
   </component>
 </project>
